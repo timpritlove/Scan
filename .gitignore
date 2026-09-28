@@ -6,3 +6,6 @@ xcuserdata/
 
 # Machine-specific build settings, see Config/Shared.xcconfig
 Config/Local.xcconfig
+
+# Local build products, see Makefile
+build/
